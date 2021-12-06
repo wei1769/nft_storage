@@ -1,0 +1,34 @@
+{
+    "name": "Test",
+    "symbol": "Test",
+    "description": "Test",
+    "seller_fee_basis_points": 10,
+    "image": "https://www.arweave.net/duITu-lrg_8pLg7vxo8C8rujBK3BrYqZLfuJyG0eNrY?ext=jpg",
+    "attributes": [
+        {
+            "trait_type": "Test",
+            "value": "Test"
+        }
+        
+    ],
+    "collection": {
+        "name": "Test",
+        "family": "Test"
+    },
+    "external_url": "https://dappio.xyz/",
+    "properties": {
+        "files": [
+            {
+                "uri": "https://raw.githubusercontent.com/wei1769/nft_storage/main/art/no_one_force_you_ido.webp",
+                "type": "image/webp"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "632cN158t8hKGeg7Hw55NpBanco4tmuJrmjGCuhVLkag",
+                "share": 100
+            }
+        ]
+    }
+}
