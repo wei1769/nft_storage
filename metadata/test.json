@@ -4,31 +4,5 @@
     "description": "Test",
     "seller_fee_basis_points": 10,
     "image": "https://raw.githubusercontent.com/wei1769/nft_storage/main/art/no_one_force_you_ido.webp",
-    "attributes": [
-        {
-            "trait_type": "Test",
-            "value": "Test"
-        }
-        
-    ],
-    "collection": {
-        "name": "Test",
-        "family": "Test"
-    },
-    "external_url": "https://dappio.xyz/",
-    "properties": {
-        "files": [
-            {
-                "uri": "https://raw.githubusercontent.com/wei1769/nft_storage/main/art/no_one_force_you_ido.webp",
-                "type": "image/webp"
-            }
-        ],
-        "category": "image",
-        "creators": [
-            {
-                "address": "632cN158t8hKGeg7Hw55NpBanco4tmuJrmjGCuhVLkag",
-                "share": 100
-            }
-        ]
-    }
+    "external_url": "https://dappio.xyz/"
 }
