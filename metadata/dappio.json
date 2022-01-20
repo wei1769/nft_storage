@@ -1,5 +1,7 @@
 {
-    "description": "Test mint on mf",
+    "name": "Dappio Test token",
+    "symbol": "DTt",
+    "description": "Test mint on mf, metadata by Wei",
     "image": "https://raw.githubusercontent.com/wei1769/nft_storage/main/art/Dappio.jpg",
     "external_url": "https://dappio.xyz/"
 }
