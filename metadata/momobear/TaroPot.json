@@ -28,6 +28,14 @@
         {
             "trait_type": "不吃芋頭",
             "value": "30人"
+        },
+        {
+            "trait_type": "吃火鍋加芋頭",
+            "value": "71人"
+        },
+        {
+            "trait_type": "吃火鍋不加芋頭",
+            "value": "53人"
         }
     ]
 }
