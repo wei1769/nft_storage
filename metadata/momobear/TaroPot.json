@@ -1,7 +1,33 @@
 {
     "name": "摸摸熊芋頭鍋",
     "symbol": "Momobear",
-    "description": "火鍋裡，加入了芋頭，看起來是大家投票決定的，食用後果自負。",
+    "description": "火鍋裡，加入了芋頭，看起來是大家投票決定的，食用後果自負。使用道具後機率獲得以下狀態：你覺得開心。你覺得舒服多了。你中毒了。你吐了。",
     "image": "https://raw.githubusercontent.com/wei1769/nft_storage/main/art/momoyaTaroPot.png",
-    "external_url": "https://t.me/momobeardao"
+    "external_url": "https://t.me/momobeardao",
+    "attributes": [
+        {
+            "trait_type": "日期",
+            "value": "2022-2-9"
+        },
+        {
+            "trait_type": "主角",
+            "value": "摸摸熊（全彩白熊狀態）"
+        },
+        {
+            "trait_type": "活動",
+            "value": "天下第一芋頭大會"
+        },
+        {
+            "trait_type": "食物",
+            "value": "芋頭火鍋"
+        },
+        {
+            "trait_type": "吃芋頭",
+            "value": "100人"
+        },
+        {
+            "trait_type": "不吃芋頭",
+            "value": "30人"
+        }
+    ]
 }
