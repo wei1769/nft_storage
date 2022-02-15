@@ -1,7 +1,33 @@
 {
-    "name": "盲盒2",
+    "name": "摸摸熊加三色豆",
     "symbol": "Momobear",
-    "description": "這是一個驚喜箱，不知道會開出什麼，敬請期待。",
-    "image": "https://raw.githubusercontent.com/wei1769/nft_storage/main/art/momobear/Blind.png",
-    "external_url": "https://t.me/momobeardao"
+    "description": "芋頭火鍋裡，加入了三色豆，經過大家激烈的投票後決定的。食用後果一樣自己負責（我個人是不敢吃）沒有任何數據可以參考食用後會獲得什麼狀態，知道的人請DM摸摸熊",
+    "image": "https://raw.githubusercontent.com/wei1769/nft_storage/main/art/momobear/2.png",
+    "external_url": "https://t.me/momobeardao",
+    "attributes": [
+        {
+            "trait_type": "日期",
+            "value": "2022-2-10"
+        },
+        {
+            "trait_type": "主角",
+            "value": "摸摸熊（全彩白熊、墨鏡配戴中）"
+        },
+        {
+            "trait_type": "活動",
+            "value": "三色豆的逆襲"
+        },
+        {
+            "trait_type": "食物",
+            "value": "芋頭三色豆火鍋"
+        },
+        {
+            "trait_type": "吃三色豆",
+            "value": "27人"
+        },
+        {
+            "trait_type": "不吃三色豆",
+            "value": "25人"
+        }
+    ]
 }

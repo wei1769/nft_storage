@@ -1,7 +1,33 @@
 {
-    "name": "盲盒3",
+    "name": "摸摸熊：芋頭火鍋",
     "symbol": "Momobear",
-    "description": "這是一個驚喜箱，不知道會開出什麼，敬請期待。",
-    "image": "https://raw.githubusercontent.com/wei1769/nft_storage/main/art/momobear/Blind.png",
-    "external_url": "https://t.me/momobeardao"
+    "description": "火鍋裡面加入了芋頭，投票的結果，下次努力點。",
+    "image": "https://raw.githubusercontent.com/wei1769/nft_storage/main/art/momobear/3.png",
+    "external_url": "https://t.me/momobeardao",
+    "attributes": [
+        {
+            "trait_type": "日期",
+            "value": "2022-2-10"
+        },
+        {
+            "trait_type": "主角",
+            "value": "摸摸熊（全彩白熊）"
+        },
+        {
+            "trait_type": "活動",
+            "value": "天下第一芋頭大會"
+        },
+        {
+            "trait_type": "食物",
+            "value": "芋頭火鍋"
+        },
+        {
+            "trait_type": "吃火鍋加芋頭",
+            "value": "71人"
+        },
+        {
+            "trait_type": "吃火鍋不加芋頭",
+            "value": "53人"
+        }
+    ]
 }

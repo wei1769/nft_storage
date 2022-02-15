@@ -1,7 +1,33 @@
 {
-    "name": "盲盒1",
+    "name": "摸摸熊：香菜救世界",
     "symbol": "Momobear",
-    "description": "這是一個驚喜箱，不知道會開出什麼，敬請期待。",
-    "image": "https://raw.githubusercontent.com/wei1769/nft_storage/main/art/momobear/Blind.png",
-    "external_url": "https://t.me/momobeardao"
+    "description": "芋頭三色豆火鍋，有的人不喜歡，有的人討厭。喜歡芋頭的人們也憤怒了！試著用香菜挽救看看吧～",
+    "image": "https://raw.githubusercontent.com/wei1769/nft_storage/main/art/momobear/1.png",
+    "external_url": "https://t.me/momobeardao",
+    "attributes": [
+        {
+            "trait_type": "日期",
+            "value": "2022-2-12"
+        },
+        {
+            "trait_type": "主角",
+            "value": "摸摸熊（全彩白熊、吸管揮舞中）"
+        },
+        {
+            "trait_type": "活動",
+            "value": "香菜臨時動議"
+        },
+        {
+            "trait_type": "食物",
+            "value": "芋頭三色豆香菜火鍋"
+        },
+        {
+            "trait_type": "吃香菜",
+            "value": "39人"
+        },
+        {
+            "trait_type": "不吃香菜",
+            "value": "2人"
+        }
+    ]
 }
