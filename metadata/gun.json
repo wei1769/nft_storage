@@ -2,9 +2,23 @@
   "content": {
     "blocks": [
       {
-        "id": "Test",
+        "id": "0",
         "type": "header",
-        "data": { "text": "Test data", "level": 2 }
+        "data": { "text": "Created in Daisi", "level": 2 }
+      },
+      {
+        "id": "1",
+        "type": "paragraph",
+        "data": { "text": "THis is a post for Daisi" }
+      },
+      {
+        "id": "2",
+        "type": "image",
+        "data": {
+          "file": {
+            "url": "https://raw.githubusercontent.com/wei1769/nft_storage/main/art/daisi.jpg"
+          }
+        }
       }
     ]
   },
